@@ -2,12 +2,12 @@
 Links
 
 - dublin core	https://www.dublincore.org/specifications/dublin-core/dcmi-terms
-- mäppäys	https://www.w3.org/wiki/WebSchemas/Datasets#Mappings
-- dcat schema	https://w3c.github.io/dxwg/dcat/rdf/dcat-schema.ttl
 - dcat 3	https://www.w3.org/TR/vocab-dcat-3/
 - dcat 2	https://www.w3.org/TR/vocab-dcat-2/
 - Creative commons	https://creativecommons.org/share-your-work/cclicenses/
 - EU contracts	https://streamlex.eu/news/new-eu-model-contractual-templates-under-eu-data-act-now-available/
+- mäppäys	https://www.w3.org/wiki/WebSchemas/Datasets#Mappings
+- dcat schema	https://w3c.github.io/dxwg/dcat/rdf/dcat-schema.ttl
 
 
 comparison of metadata standards, basic fields: 
