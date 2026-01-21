@@ -16,4 +16,4 @@ comparison of metadata standards, basic fields:
 comparison of metadata standards, all dcat3 fields: 
 [dcat3mappays_2025_8_14.xlsx](https://github.com/user-attachments/files/23173219/dcat3mappays_2025_8_14.xlsx)
 
-Esimerkki maanäytteen DCAT3-standardarin peruskentistä. https://github.com/petrilinna/metadata/blob/main/dcat3maan%C3%A4yte_2026_1_21.xlsx
+Esimerkki maanäytteen DCAT3-standardin peruskentistä. https://github.com/petrilinna/metadata/blob/main/dcat3maan%C3%A4yte_2026_1_21.xlsx
